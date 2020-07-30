@@ -1,0 +1,17 @@
+{
+  "name": "are-you-tawlking-to-me",
+  "version": "1.0.0",
+  "description": "A quick bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "sass": "sass --watch src/all.scss public/all.css"
+  },
+  "keywords": [],
+  "author": "Adele",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sass": "^1.26.10"
+  }
+}
