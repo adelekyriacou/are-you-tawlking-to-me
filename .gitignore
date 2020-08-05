@@ -1,3 +1,5 @@
 node_modules
-all.css
-all.css.map
+public/all.css
+public/all.css.map
+public/bootstrap*
+public/jquery*

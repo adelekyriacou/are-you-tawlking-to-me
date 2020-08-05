@@ -3,4 +3,4 @@
 For you! A smart soundbox for all your accenting needs!
 ___
 
-_A quick-time start-up example using Bootstrap._
+_A quick-time start-up example with Bootstrap_

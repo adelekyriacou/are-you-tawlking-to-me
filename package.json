@@ -5,13 +5,17 @@
   "main": "app.js",
   "scripts": {
     "dev": "node app.js",
-    "sass": "sass --watch src/all.scss public/all.css"
+    "sass": "sass --watch src/all.scss public/all.css",
+    "prepare": "cp node_modules/bootstrap/dist/js/bootstrap* node_modules/jquery/dist/jquery*  public/"
   },
   "keywords": [],
   "author": "Adele",
   "license": "MIT",
   "dependencies": {
+    "bootstrap": "^4.5.0",
     "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "prettier": "^2.0.5",
     "sass": "^1.26.10"
   }
 }
